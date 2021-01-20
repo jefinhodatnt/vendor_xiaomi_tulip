@@ -1379,6 +1379,7 @@ PRODUCT_PACKAGES += \
     libsdm-disp-vndapis \
     libthermalclient \
     libtime_genoff \
+    manifest_android.hardware.drm@1.2-service.widevine \
     vendor.qti.hardware.fm@1.0 \
     SoterService \
     WfdService \
